@@ -1,0 +1,37 @@
+table, th, td {border-style: groove;
+    border-collapse:collapse;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 15px;
+    }
+table.center {
+     margin-top: 40px;
+     margin-left: auto; 
+     margin-right: auto;
+   }
+
+.center{
+   text-align: center;
+   font-family: 'Courier New'; 
+    }
+.jumbotron {
+   margin-top: 40px;
+   margin-left: 400px;
+   margin-right: 400px;
+   border: 1px solid #990000;
+   border-radius: 0;
+   padding: 20px;
+   background-image: linear-gradient(to right, rgba(17, 173, 64, 0.616), rgba(24, 82, 207, 0.63));
+    }
+h1 {
+    text-align: center;
+}
+
+.school1{
+    background-color: rgba(150, 212, 212, 0.4);
+}
+
+.school2{
+    background-color: rgba(150, 212, 178, 0.4);
+}
